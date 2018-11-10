@@ -1,5 +1,5 @@
 
-//Variables
+//Variables to build in
 
 var winCount = document.querySelector('.win-count');
 var lossCount = document.querySelector('.loss-count');
